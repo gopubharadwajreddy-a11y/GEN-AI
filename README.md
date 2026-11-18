@@ -10,7 +10,7 @@ This repository contains weekly assignments, lab exercises, and experiments for 
 - **`Week4/`**: Tokenizer analysis and comparison across different architectures.
 - **`Week5/`**: Token budget estimation, cost calculation, and rate limiting simulations.
 - **`week6/`**: LLM evaluation benchmark using a golden dataset and baseline metrics comparison.
-- **`co2/`**: Course Outcome 2 Interactive Lab: Next-Token Probabilities, Logits & Decoding using GPT-2.
+- **`week7/`**: Interactive Lab: Next-Token Probabilities, Logits & Decoding using GPT-2.
 
 ## Setup Instructions
 
