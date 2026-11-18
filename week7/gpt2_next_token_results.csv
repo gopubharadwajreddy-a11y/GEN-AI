@@ -1,0 +1,6 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+The capital of France is,1.0,1,262,' the',-100.2498,-100.2498,8.46
+The capital of France is,1.0,2,783,' now',-100.8175,-100.8175,4.79
+The capital of France is,1.0,3,257,' a',-100.8555,-100.8555,4.62
+The capital of France is,1.0,4,4881,' France',-101.2102,-101.2102,3.24
+The capital of France is,1.0,5,6342,' Paris',-101.2143,-101.2143,3.22
